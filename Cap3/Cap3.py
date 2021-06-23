@@ -97,7 +97,9 @@ def noErrorFragmentAssembly(reads, indexes):
 
 def acurratePercentage(u, v, L):
     """
-    Dadas dos cadenas u,v y L la distancia de Levenshtein entre ellas, podemos ver en qué proporción son semejantes con p = 1-L/max{|u|,|v|}.
+    Dadas dos cadenas u,v y L la distancia de Levenshtein 
+    entre ellas, podemos ver en qué proporción son semejantes 
+    con p = 1-L/max{|u|,|v|}.
     """
     return 1-L/max(len(u),len(v))
 
@@ -106,7 +108,10 @@ def errorOverlapCost(u, v):
     Dadas dos cadenas u,v, se puede calcular una longitud 
     penalizada del mejor traslape aproximado bajo el criterio:
     max{|p|+|s|-k*d(p,s): p es sufijo de u, s es prefijo de v}
-    con k = (|u|+|v|)/max{|u|,|v|}. Esta rutina puede ser utilizada para un algoritmo de secuenciación de novo. Además, la función regresa a los mejores candidatos a sufijo de u y prefijo de v.
+    con k = (|u|+|v|)/max{|u|,|v|}. Esta rutina puede ser 
+    utilizada para un algoritmo de secuenciación de novo. 
+    Además, la función regresa a los mejores candidatos a 
+    sufijo de u y prefijo de v.
     """
     cost = 0
     #Al querer maximizar, empezamos con un costo cero.
