@@ -1,3 +1,7 @@
+#José Fernando Méndez Torres
+#Códigos correspondientes al tercer capítulo de la tesis  
+#"Secuenciación del ADN por medio del problema del agente 
+#viajero". Los métodos son descritos a detalle en dicha tesis.
 
 import numpy as np
 
