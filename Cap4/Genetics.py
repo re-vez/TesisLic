@@ -182,7 +182,7 @@ def next_generation(Pop, CostMatrix, elite, pm):
 def genetic_algorithm(PopSize, CostMatrix, elite, pm, gen):
     """
     Este algoritmo genético obtiene 'buenas' soluciones para 
-    instancias del PAV codificadas en una matriz de costos 
+    instancias del PM codificadas en una matriz de costos 
     CostMatrix. Además de dicha matriz, los otros parámetros 
     que recibe son el tamaño de la población PopSize, la 
     probabilidad de mutación pm y el número de generaciones 
@@ -215,7 +215,7 @@ def genetic_algorithm(PopSize, CostMatrix, elite, pm, gen):
 def genetic_algorithm_plot(PopSize, CostMatrix, elite, pm, gen):
     """
     Este algoritmo genético obtiene 'buenas' soluciones para 
-    instancias del PAV codificadas en una matriz de costos 
+    instancias del PM codificadas en una matriz de costos 
     CostMatrix. Además de dicha matriz, los otros parámetros 
     que recibe son el tamaño de la población PopSize, la 
     probabilidad de mutación pm y el número de generaciones 
