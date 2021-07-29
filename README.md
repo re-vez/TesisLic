@@ -20,10 +20,10 @@ En el quinto capítulo trabajaremos con un ADN de referencia del fago lambda. A 
 
 Referencias
 
-1. H. Curtis, H. S. Barnes, A. Schnek y A. Massarini, Biología, 7.a ed., E. M. Panameri- cana, ed. 2008, págs. 172-204.
+1. H. Curtis, H. S. Barnes, A. Schnek y A. Massarini, Biología, 7.a ed., E. M. Panamericana, ed. 2008, págs. 172-204.
 2. J. M. Heather y B. Chain, «The sequence of sequencers: The history of sequencing DNA», Genomics, vol. 107, n.o 1, págs. 1-8, 2016. doi:10.1016/j.ygeno.2015.11.003.
 3. B. Langmead. (2015). Sequencers give pieces to genomic puzzles, Youtube, dirección: https://youtu.be/X307VyAeHfI.
 4. D. Gusfield, Integer Linear Programming in Computational and Systems Biology. Cambridge University Press, 2019.
-5. D. L. Applegate, R. E. Bixby, V. Chvatál y W. J. Cook, The Traveling Salesman Problem: A Computational Study. Princeton University Press, 2006.
+5. D. L. Applegate, R. E. Bixby, V. Chvatál y W. J. Cook, The Traveling Salesman Problem: A Computational Study. Princeton University Press, 2006, págs. 1-4.
 
 
