@@ -16,14 +16,14 @@ En el tercer capítulo examinaremos los errores comunes de secuenciación, el ma
 
 En el cuarto capítulo daremos la definición de algoritmo a partir del modelo computacional de Turing, de ahí justificaremos que el problema del agente viajero es difícil de resolver desde la teoría de la complejidad, es decir, demostraremos que es **NP-Duro**. Asimismo, introduciremos brevemente a los algoritmos heurísticos y desarrollaremos un algoritmo genético para el PAV para encontrar buenas soluciones.
 
-En el quinto capítulo trabajaremos con un ADN de referencia del fago $\lambda$. A partir de él, generaremos datos sin errores por medio de una computadora, aplicaremos el modelo propuesto en el capítulo 3 y lo secuenciaremos con los algoritmos presentados en los capítulos 2 y 4 para comparar los resultados con la secuencia original.
+En el quinto capítulo trabajaremos con un ADN de referencia del fago lambda. A partir de él, generaremos datos sin errores por medio de una computadora, aplicaremos el modelo propuesto en el capítulo 3 y lo secuenciaremos con los algoritmos presentados en los capítulos 2 y 4 para comparar los resultados con la secuencia original.
 
 Referencias
 
 1. H. Curtis, H. S. Barnes, A. Schnek y A. Massarini, Biología, 7.a ed., E. M. Panameri- cana, ed. 2008, págs. 172-204.
-2. J. M. Heather y B. Chain, «The sequence of sequencers: The history of sequencing DNA», Genomics, vol. 107, n.o 1, págs. 1-8, 2016. doi: 10.1016/j.ygeno.2015.11.003.
-3. B. Langmead. (2015). Sequencers give pieces to genomic puzzles, Youtube, direc- ción: https://youtu.be/X307VyAeHfI.
-4. D. Gusfield, Integer Linear Programming in Computational and Systems Biology. Cam- bridge University Press, 2019.
+2. J. M. Heather y B. Chain, «The sequence of sequencers: The history of sequencing DNA», Genomics, vol. 107, n.o 1, págs. 1-8, 2016. doi:10.1016/j.ygeno.2015.11.003.
+3. B. Langmead. (2015). Sequencers give pieces to genomic puzzles, Youtube, dirección: https://youtu.be/X307VyAeHfI.
+4. D. Gusfield, Integer Linear Programming in Computational and Systems Biology. Cambridge University Press, 2019.
 5. D. L. Applegate, R. E. Bixby, V. Chvatál y W. J. Cook, The Traveling Salesman Problem: A Computational Study. Princeton University Press, 2006.
 
 
