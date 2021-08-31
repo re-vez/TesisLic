@@ -16,7 +16,7 @@ En el tercer capítulo examinaremos los errores comunes de secuenciación, el ma
 
 En el cuarto capítulo daremos la definición de algoritmo a partir del modelo computacional de Turing, de ahí justificaremos que el problema del agente viajero es difícil de resolver desde la teoría de la complejidad, es decir, demostraremos que es **NP-Duro**. Asimismo, introduciremos brevemente a los algoritmos heurísticos y desarrollaremos un algoritmo genético para el PAV con el que se pretende encontrar buenas soluciones.
 
-En el quinto capítulo trabajaremos con un ADN de referencia del fago lambda. A partir de él, generaremos datos sin errores por medio de una computadora, aplicaremos el modelo propuesto en el capítulo 3 y lo secuenciaremos con los algoritmos presentados en los capítulos 2 y 4 para comparar los resultados con la secuencia original.
+En el quinto capítulo trabajaremos con el ADN de referencia del fago lambda. A partir de él, generaremos datos sin errores por medio de una computadora, aplicaremos el modelo propuesto en el capítulo 3 y lo secuenciaremos con los algoritmos presentados en los capítulos 2 y 4 para comparar los resultados con la secuencia original.
 
 Referencias
 
